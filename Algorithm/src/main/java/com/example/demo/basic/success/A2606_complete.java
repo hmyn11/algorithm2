@@ -1,4 +1,4 @@
-package com.example.demo.basic;
+package com.example.demo.basic.success;
 
 import java.io.BufferedReader;
 import java.io.IOException;
